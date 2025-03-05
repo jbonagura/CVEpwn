@@ -1,4 +1,3 @@
----
 # CVEpwn - CVE Exploit Finder
 
 **CVEpwn** is a security tool designed to search for exploits related to CVE vulnerabilities across multiple platforms like ExploitDB, CXSecurity, and GitHub. 
@@ -124,5 +123,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This tool is intended for ethical research and penetration testing purposes only. The author is not responsible for any misuse or illegal activities involving this tool.
-
----
